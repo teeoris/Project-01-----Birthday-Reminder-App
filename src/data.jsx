@@ -1,33 +1,38 @@
-
 export const data = [
-{
+  {
     id: 1,
-    name: "Ademola Ojo",
-    age: "29",
-    img1: 'https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg',
-},
-{
+    name: "Oyepeju",
+    age: "27",
+    img1: "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
+  },
+  {
     id: 2,
-    name: "Inioluwa Ayo",
-    age: "18",
-    img1: 'https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg',
-},
-{
+    name: "Inioluwa",
+    age: "16",
+    img1: "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
+  },
+  {
     id: 3,
-    name: "Ifeayo Emerald",
+    name: "Emerald",
     age: "24",
-    img1: 'https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg',
-},
-{
+    img1: "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
+  },
+  {
     id: 4,
-    name: "Ayodele Babs",
+    name: "iremide",
     age: "32",
-    img1: 'https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg',
-},
-{
+    img1: "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
+  },
+  {
     id: 5,
-    name: "Danny Oladimeji",
+    name: "ayodele",
+    age: "32",
+    img1: "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
+  },
+  {
+    id: 6,
+    name: "orisatuyi",
     age: "21",
-    img1: 'https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg',
-},
+    img1: "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
+  },
 ];
